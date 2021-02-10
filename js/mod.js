@@ -44,6 +44,10 @@ function getPointGen() {
 	return gain
 }
 
+function dispPointGen() {
+	return `Dividing the slog of points by ${getPointGen()} every second`
+}
+
 // You can add non-layer related variables that should to into "player" and be saved here, along with default values
 function addedPlayerData() { return {
 	phase: 0
