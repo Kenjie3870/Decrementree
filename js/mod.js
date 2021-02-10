@@ -3,8 +3,8 @@ let modInfo = {
 	id: "decTree",
 	author: "unpingabot#0245",
 	pointsName: "points",
-	discordName: "",
-	discordLink: "",
+	discordName: "Unpingabots Dark Room",
+	discordLink: "https://discord.gg/M9hxFdaH2V",
 	initialStartPoints: new Decimal("(e^1e308)1"), // Used for hard resets and new players
 	
 	offlineLimit: 1,  // In hours
